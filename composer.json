@@ -1,6 +1,8 @@
 {
     "name": "hsk/tars-helper",
-    "description": "Tars ````",
+    "description": "Tars 扩展工具",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Hsk\\TarsHelper\\": "src/"
