@@ -3,7 +3,7 @@
 namespace Hsk\TarsHelper;
 
 use Illuminate\Support\ServiceProvider;
-use Sky\TarsHelper\Commands\Tars;
+use Hsk\TarsHelper\Commands\Tars;
 
 class TarsHelperProvider extends \Lxj\Laravel\Tars\ServiceProvider
 {

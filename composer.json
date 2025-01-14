@@ -1,0 +1,15 @@
+{
+    "name": "hsk/tars-helper",
+    "description": "Tars ````",
+    "autoload": {
+        "psr-4": {
+            "Hsk\\TarsHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sky"
+        }
+    ],
+    "require": {}
+}
