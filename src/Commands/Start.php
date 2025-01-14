@@ -3,7 +3,7 @@
 namespace Hsk\TarsHelper\Commands;
 
 
-use App\MyTars\Core\Server;
+use Hsk\TarsHelper\Core\Server;
 use Tars\App;
 
 class Start extends \Tars\cmd\Start

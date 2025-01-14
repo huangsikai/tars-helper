@@ -2,7 +2,6 @@
 
 namespace Hsk\TarsHelper;
 
-use Illuminate\Support\ServiceProvider;
 use Hsk\TarsHelper\Commands\Tars;
 
 class TarsHelperProvider extends \Lxj\Laravel\Tars\ServiceProvider
@@ -14,8 +13,7 @@ class TarsHelperProvider extends \Lxj\Laravel\Tars\ServiceProvider
      */
     public function register()
     {
-        //
-var_dump(__METHOD__);
+
         parent::registerCommands();
         $this->commands([Tars::class]);
 

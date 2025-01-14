@@ -5,7 +5,7 @@ namespace Hsk\TarsHelper\Facades;
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @method static string Test()
+ * @method static void Async(\Closure $fun)
  */
 class TarsHelper extends Facade
 {
