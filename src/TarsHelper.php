@@ -1,6 +1,6 @@
 <?php
 
-namespace Sky\TarsHelper;
+namespace Hsk\TarsHelper;
 
 use Illuminate\Config\Repository;
 use Illuminate\Support\Facades\Log;

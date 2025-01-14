@@ -1,6 +1,6 @@
 <?php
 
-namespace Sky\TarsHelper;
+namespace Hsk\TarsHelper;
 
 use Illuminate\Support\ServiceProvider;
 use Sky\TarsHelper\Commands\Tars;

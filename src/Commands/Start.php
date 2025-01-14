@@ -1,6 +1,6 @@
 <?php
 
-namespace Sky\TarsHelper\Commands;
+namespace Hsk\TarsHelper\Commands;
 
 
 use App\MyTars\Core\Server;

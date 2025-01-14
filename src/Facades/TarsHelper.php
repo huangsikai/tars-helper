@@ -1,6 +1,6 @@
 <?php
 
-namespace Sky\TarsHelper\Facades;
+namespace Hsk\TarsHelper\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
