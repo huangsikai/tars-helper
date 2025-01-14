@@ -1,0 +1,15 @@
+{
+    "name": "sky/tars-helper",
+    "description": "Tars Helper",
+    "autoload": {
+        "psr-4": {
+            "Sky\\TarsHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sky"
+        }
+    ],
+    "require": {}
+}
